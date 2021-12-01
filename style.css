@@ -1,0 +1,52 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(255, 255, 255);
+  text-align: center
+}
+
+header {
+  font-family: 'Capriola', sans-serif;
+  font-size: 52px;
+  margin-top: 70px;
+  height: 78px;
+}
+
+p.code {
+  font-family: 'Inconsolata', monospace;
+  font-size: 16px;
+  padding: 10px;
+  background: #f6f6f6;
+  border: 1px solid #999;
+  width: 480px;
+  margin-left: 10px;
+  border-radius: 4px;
+}
+
+p.palette_name {
+  font-family: 'Nunito', sans-serif;
+  font-size: 24px;
+  margin-bottom: 12px;
+}
+
+div.palette {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 0px;
+  width: 520px;
+  height: 280px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+div.footer {
+  margin-top: 20px;
+  font-family: 'Nunito', sans-serif;
+  font-size: 16px;
+}
+
+a {
+  color: rgb(0);
+  text-decoration: underline;
+  color: black;
+}
